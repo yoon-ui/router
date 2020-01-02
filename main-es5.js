@@ -151,7 +151,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<header>\n  <div class=\"container\">\n    <h1><a href=\"/\">Logo</a></h1>\n    <nav>\n      <ul>\n        <li routerLinkActive=\"active\"><a routerLink=\"/main\">메인페이지</a></li>\n        <li routerLinkActive=\"active\"><a routerLink=\"/a\">A페이지</a></li>\n        <li routerLinkActive=\"active\"><a routerLink=\"/b\">B페이지</a></li>\n        <li routerLinkActive=\"active\"><a routerLink=\"/c\">C페이지</a></li>\n      </ul>\n    </nav>\n  </div>\n</header>";
+    __webpack_exports__["default"] = "<header>\n  <div class=\"container\">\n    <h1><a routerLink=\"/\">Logo</a></h1>\n    <nav>\n      <ul>\n        <li routerLinkActive=\"active\"><a routerLink=\"/main\">메인페이지</a></li>\n        <li routerLinkActive=\"active\"><a routerLink=\"/a\">A페이지</a></li>\n        <li routerLinkActive=\"active\"><a routerLink=\"/b\">B페이지</a></li>\n        <li routerLinkActive=\"active\"><a routerLink=\"/c\">C페이지</a></li>\n      </ul>\n    </nav>\n  </div>\n</header>";
     /***/
   },
 
@@ -1690,7 +1690,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! E:\윤아영\08.웹표준코딩실무-아영\05.angular\router\src\main.ts */
+    /*! e:\윤아영\08.웹표준코딩실무-아영\05.angular\router\src\main.ts */
     "./src/main.ts");
     /***/
   }
